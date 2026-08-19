@@ -1,0 +1,192 @@
+2026-08-05 11:36:34 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\CrossbrowserTesting.xml
+
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - Browser launched and URL opened
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - ***** Starting Account Registration Test *****
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - Browser launched and URL opened
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - Browser launched and URL opened
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - ***** Starting Account Registration Test *****
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - ***** Starting Account Registration Test *****
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - Clicked on MyAccount
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - Clicked on MyAccount
+2026-08-05 11:36:39 INFO  testCases.TC_01AccountRegistrationPage - Clicked on MyAccount
+2026-08-05 11:36:40 INFO  testCases.TC_01AccountRegistrationPage - Clicked on Register
+2026-08-05 11:36:40 INFO  testCases.TC_01AccountRegistrationPage - Providing customer details...
+2026-08-05 11:36:40 INFO  testCases.TC_01AccountRegistrationPage - Clicked on Register
+2026-08-05 11:36:40 INFO  testCases.TC_01AccountRegistrationPage - Providing customer details...
+2026-08-05 11:36:40 INFO  testCases.TC_01AccountRegistrationPage - Clicked on Register
+2026-08-05 11:36:40 INFO  testCases.TC_01AccountRegistrationPage - Providing customer details...
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Validating expected message...
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Test Passed
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Validating expected message...
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Test Passed
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Validating expected message...
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Test Passed
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Browser closed
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Browser closed
+2026-08-05 11:36:42 INFO  testCases.TC_01AccountRegistrationPage - Browser closed
+2026-08-05 23:09:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-05 23:09:49 INFO  testCases.TC_02LoginTest - Browser launched and URL opened
+2026-08-05 23:09:49 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-05 23:09:50 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-05 23:09:50 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-05 23:09:50 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-05 23:09:50 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-05 23:09:52 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-05 23:09:52 INFO  testCases.TC_02LoginTest - Browser closed
+2026-08-05 23:39:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-05 23:39:36 INFO  testCases.TC_03DDT - Browser launched and URL opened
+2026-08-05 23:39:37 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:39:51 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:40:02 INFO  testCases.TC_03DDT - **** Finished TC_003_LoginDDT *****
+2026-08-05 23:40:02 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:40:07 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:40:17 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:40:28 INFO  testCases.TC_03DDT - Browser closed
+2026-08-05 23:42:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-05 23:42:40 INFO  testCases.TC_03DDT - Browser launched and URL opened
+2026-08-05 23:42:41 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:42:53 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:43:07 INFO  testCases.TC_03DDT - **** Finished TC_003_LoginDDT *****
+2026-08-05 23:43:07 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:43:12 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:43:22 INFO  testCases.TC_03DDT - **** Starting TC_003_LoginDDT *****
+2026-08-05 23:43:33 INFO  testCases.TC_03DDT - Browser closed
+2026-08-06 11:27:15 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-06 11:33:24 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-06 11:39:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-06 11:39:20 INFO  testCases.TC_01AccountRegistrationPage - Browser launched and URL opened
+2026-08-06 11:39:20 INFO  testCases.TC_01AccountRegistrationPage - ***** Starting Account Registration Test *****
+2026-08-06 11:39:20 INFO  testCases.TC_01AccountRegistrationPage - Clicked on MyAccount
+2026-08-06 11:39:21 INFO  testCases.TC_01AccountRegistrationPage - Clicked on Register
+2026-08-06 11:39:21 INFO  testCases.TC_01AccountRegistrationPage - Providing customer details...
+2026-08-06 11:39:22 INFO  testCases.TC_01AccountRegistrationPage - Validating expected message...
+2026-08-06 11:39:42 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-06 11:44:24 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-06 11:46:53 INFO  testCases.TC_02LoginTest - Browser launched and URL opened
+2026-08-06 11:46:53 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-06 11:46:53 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-06 11:46:53 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-06 11:46:53 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-06 11:46:53 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-06 11:46:54 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-06 23:33:26 INFO  testCases.TC_02LoginTest - Browser launched and URL opened
+2026-08-06 23:33:26 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-06 23:33:26 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-06 23:33:26 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-06 23:33:26 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-06 23:33:28 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-06 23:33:28 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-18 23:52:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-19 10:55:56 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\AppData\Local\Temp\testng-eclipse--1317022203\testng-customsuite.xml
+
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3276732: 54 ms
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68d6972f: 14 ms
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@180e6ac4: 8 ms
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6256ac4f: 7 ms
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@757d6814: 6 ms
+2026-08-19 11:06:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@649725e3: 0 ms
+2026-08-19 11:11:26 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-19 11:15:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-19 11:15:41 INFO  testCases.TC_01AccountRegistrationPage - ***** Starting Account Registration Test *****
+2026-08-19 11:15:41 INFO  testCases.TC_01AccountRegistrationPage - Clicked on MyAccount
+2026-08-19 11:15:41 INFO  testCases.TC_01AccountRegistrationPage - Clicked on Register
+2026-08-19 11:15:41 INFO  testCases.TC_01AccountRegistrationPage - Providing customer details...
+2026-08-19 11:15:43 INFO  testCases.TC_01AccountRegistrationPage - Validating expected message...
+2026-08-19 11:15:43 INFO  testCases.TC_01AccountRegistrationPage - Test Passed
+2026-08-19 11:15:44 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-19 11:15:44 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-19 11:15:45 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-19 11:15:45 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-19 11:15:45 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-19 11:15:46 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-19 11:19:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\Master.xml
+
+2026-08-19 11:19:06 INFO  testCases.TC_01AccountRegistrationPage - ***** Starting Account Registration Test *****
+2026-08-19 11:19:06 INFO  testCases.TC_01AccountRegistrationPage - Clicked on MyAccount
+2026-08-19 11:19:07 INFO  testCases.TC_01AccountRegistrationPage - Clicked on Register
+2026-08-19 11:19:07 INFO  testCases.TC_01AccountRegistrationPage - Providing customer details...
+2026-08-19 11:19:08 INFO  testCases.TC_01AccountRegistrationPage - Validating expected message...
+2026-08-19 11:19:08 INFO  testCases.TC_01AccountRegistrationPage - Test Passed
+2026-08-19 11:19:09 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-19 11:19:09 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-19 11:19:10 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-19 11:19:10 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-19 11:19:10 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-19 11:37:26 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium26\SeleniumWorkspace\Opencart\test-output\testng-failed.xml
+
+2026-08-19 11:37:29 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-19 11:37:29 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-19 11:37:29 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-19 11:37:29 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-19 11:37:29 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-19 11:37:30 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-19 12:12:07 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-19 12:12:07 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-19 12:12:07 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-19 12:12:07 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-19 12:12:09 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-19 12:12:09 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-19 12:14:01 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-19 12:14:01 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-19 12:14:01 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-19 12:14:01 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-19 12:14:01 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-19 12:14:03 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
+2026-08-19 12:16:57 INFO  testCases.TC_02LoginTest - **** Starting TC_002_LoginTest  ****
+2026-08-19 12:16:57 INFO  testCases.TC_02LoginTest - clicked on myaccount link on the home page..
+2026-08-19 12:16:57 INFO  testCases.TC_02LoginTest - clicked on login link under myaccount..
+2026-08-19 12:16:57 INFO  testCases.TC_02LoginTest - Entering valid email and password..
+2026-08-19 12:16:58 INFO  testCases.TC_02LoginTest - clicked on ligin button..
+2026-08-19 12:17:00 INFO  testCases.TC_02LoginTest - **** Finished TC_002_LoginTest  ****
